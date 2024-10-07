@@ -20,7 +20,8 @@
   "homepage": "https://github.com/DTB2324/NodeJS#readme",
   "dependencies": {
     "express": "^4.21.0",
-    "express-handlebars": "^8.0.1"
+    "express-handlebars": "^8.0.1",
+    "mongoose": "^8.7.0"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
